@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Blenda, eu amo você! Se você me ama, dá uma risadinha! C: </h1>
+    return <h1>Teste novo </h1>
 }
 
 export default Home;
